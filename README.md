@@ -3,7 +3,7 @@
 -  I’m currently learning --> front end development and dsa.
 -  my hobbies --> development,singing,dancing.. 
 -  I’m looking to collaborate --> interested list or my hobbies...
--  How to reach me --> anjalisinghv473@gmail.co
+-  How to reach me --> anjalisinghv473@gmail.com
 
 <!---
 Anjali-singh-v/Anjali-singh-v is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
