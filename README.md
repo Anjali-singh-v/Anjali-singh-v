@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Anjali-singh-v|bca student
 -  I’m interested --> tech related work,hachathons,startup....
 -  I’m currently learning --> front end development and dsa.
--  I’m looking to collaborate --> interested list or my hobbies...
 -  my hobbies --> development,singing,dancing.. 
+-  I’m looking to collaborate --> interested list or my hobbies...
 -  How to reach me --> anjalisinghv473@gmail.co
 
 <!---
