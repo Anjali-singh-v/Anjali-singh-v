@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anjali-singh-v|bca student
+- 👋 Hi, I’m @Anjali-singh-v | bca student
 -  I’m interested --> tech related work,hachathons,startup....
 -  I’m currently learning --> front end development and dsa.
 -  my hobbies --> development,singing,dancing.. 
